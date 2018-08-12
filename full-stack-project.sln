@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api", "api\api.csproj", "{F
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{C8AE7B8E-8B54-4D47-B070-0469717C03BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api.tests", "tests\api.tests\api.tests.csproj", "{C21D0AC2-1D14-4787-84C7-E2868FEF80F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api.tests", "tests\api.tests\api.tests.csproj", "{C21D0AC2-1D14-4787-84C7-E2868FEF80F6}"
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ui", "ui\", "{547E7DF7-32DC-42C5-AA3E-7EF72233248F}"
 	ProjectSection(WebsiteProperties) = preProject
@@ -27,6 +27,11 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ui", "ui\", "{547E7DF7-32DC
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "52361"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FB30D007-9F02-4A66-B9D7-B7713D04D01D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
