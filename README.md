@@ -49,11 +49,11 @@ We would like to provide our users with the ability to send a sms with their own
 We utilise Twilio to provide our messaging services and would like to use their services for this as well.
 
 #### Stories
-1. As a user I must be able to craft a sms message to a mobile number with some custom content
-2. As a user I must be able to send the crafted sms to the specified mobile number
-3. As a user I must be able to view a list of the sms messages sent so far
-4. As a user I should be able to filter list of the messages sent by date and time they were sent
-5. As a user I should only be able to send a message of up to 160 characters
+1. As a user I must be able to compose a sms message to a mobile number with some custom content.
+2. As a user I must be able to send the composeed sms to the specified mobile number.
+3. As a user I must be able to view a list of the sms messages sent so far.
+4. As a user I should be able to filter list of the messages sent by date and time they were sent.
+5. As a user I should only be able to send a message of up to 160 characters.
 
 #### Resources
 We know there may be a few new bits of tech in here so here are a set of resources that should help you fulfill the users requirements.

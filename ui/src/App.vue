@@ -1,8 +1,9 @@
 <template>
   <div id="app">
+    <img alt="StaffCircle Logo" src="./assets/logo.png" class="app__logo" />
     <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/">Send</router-link> |
+      <router-link to="/list">List</router-link>
     </div>
     <router-view/>
   </div>
@@ -14,12 +15,15 @@
   -moz-osx-font-smoothing grayscale
   text-align center
   color #2c3e50
+  .app__logo
+    width 10em
+    height auto
 
-#nav
+  #nav
   padding 30px
   a
-    font-weight bold
-    color #2c3e50
-    &.router-link-exact-active
+  font-weight bold
+  color #2c3e50
+  &.router-link-exact-active
       color #42b983
 </style>
