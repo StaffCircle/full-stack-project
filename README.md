@@ -10,7 +10,7 @@ This project is a opportunity to show us your strengths and demonstrate what you
 This project should help you demostrate your C\#, ASP.NET, JS and styling skills. If you are struggling on a particular area, try to 
 move on and focus on the areas that will best demonstrate your ability.
 
-Rather than prescibe a list of tasks, we are keen to see how you approach a real world set of requirements so the project has a set of documented requirements details below with some minor guidance around approach as we don't want this to take you all night.
+Rather than prescibe a list of tasks, we are keen to see how you approach a real world set of requirements so the project has a set of documented requirements detailed below with some minor guidance around approach as we don't want this to take you all night.
 
 Complete as many of the requirements as you can, and then we will review the code, giving you the opportunity to share your reasoning behind your implementation and for our team to share any feedback they have.
 
