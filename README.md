@@ -70,4 +70,5 @@ When your complete bundle up your project and send it to our team.
     git bundle create full-stack-project.bundle --all
     ```
 2. Upload the file you just created **"full-stack-project.bundle"** to a file sharing provider
-3. Finally, email our team the download link: recruitment@staffcircle.com
+3. Finally, email our team the download link: devrecruitment@staffcircle.com
+ 
