@@ -1,4 +1,4 @@
-![StaffCircle](https://www.staffcircle.com/wp-content/uploads/2018/01/logo.png "StaffCircle")
+![StaffCircle](https://staffcircle.com/wp-content/uploads/2018/10/header-logo-1.png "StaffCircle")
 
 ## Full Stack Project
 
@@ -65,10 +65,11 @@ We know there may be a few new bits of tech in here so here are a set of resourc
         
 ### Complete
 When your complete bundle up your project and send it to our team.
-1. Bundle up your repository using the following command:
+1. Commit all changes locally
+2. Bundle up your repository using the following command:
     ```bash
     git bundle create full-stack-project.bundle --all
     ```
-2. Upload the file you just created **"full-stack-project.bundle"** to a file sharing provider
-3. Finally, email our team the download link: devrecruitment@staffcircle.com
+3. Upload the file you just created **"full-stack-project.bundle"** to a file sharing provider
+4. Finally, email our team the download link: devrecruitment@staffcircle.com
  
