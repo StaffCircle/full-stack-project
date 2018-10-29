@@ -1,5 +1,3 @@
-![StaffCircle](https://staffcircle.com/wp-content/uploads/2018/10/header-logo-1.png "StaffCircle")
-
 ## Full Stack Project
 
 ### Welcome
