@@ -73,9 +73,9 @@ When your complete bundle up your project and send it to our team.
  
 ### Scoring
 Once you have submitted your bundle we will score it using the following 5 criteria:
-General Approach (1-10)  
-Code Quality (1-10)  
-Unit Test Coverage (1-10)  
-Readability (1-10)  
-functional working (1-10)
+1. General Approach (1-10)
+2. Code Quality (1-10)  
+3. Unit Test Coverage (1-10)  
+4. Readability (1-10)  
+5. Functional working (1-10)
 
