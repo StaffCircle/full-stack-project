@@ -71,3 +71,11 @@ When your complete bundle up your project and send it to our team.
 3. Upload the file you just created **"full-stack-project.bundle"** to a file sharing provider
 4. Finally, email our team the download link: devrecruitment@staffcircle.com
  
+### Scoring
+Once you have submitted your bundle we will score it using the following 5 criteria:
+General Approach (1-10)  
+Code Quality (1-10)  
+Unit Test Coverage (1-10)  
+Readability (1-10)  
+functional working (1-10)
+
